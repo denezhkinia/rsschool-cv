@@ -17,11 +17,11 @@ Senior or Lead Front-End Developer In the future.
 ## Skills
 
 ```
-C#;
-HTML/CSS;
-Studying Java-Script;
-MS Sql;
-Git;
+* C#;
+* HTML/CSS;
+* Studying Java-Script;
+* MS Sql;
+* Git;
 ```
 
 ## Study
