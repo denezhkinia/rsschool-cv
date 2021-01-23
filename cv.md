@@ -1,4 +1,4 @@
-Personal information
+## Personal information
 
 Name Ilya Denezhkin
 
@@ -9,11 +9,11 @@ Marital status: Unmarried;
 Date of birth: 16th September 1993; 
 Email: denezhkinia@ya.ru;
 
-Job objective
+## Job objective
 
 Senior or Lead Front-End Developer In the future.
 
-Skills
+## Skills
 
 C#;
 HTML/CSS;
@@ -21,12 +21,12 @@ Studying Java-Script;
 MS Sql;
 Git;
 
-Study
+## Study
 
-University
+### University
 
 2015 Moscow State University of Technologies «STANKIN», Information Technology, Automation of technological processes and production in mechanical engineering,Software engineer
 
-Language
+## Language
 
 English B2 
