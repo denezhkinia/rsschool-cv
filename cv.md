@@ -22,6 +22,7 @@ Senior or Lead Front-End Developer In the future.
 * Studying Java-Script;
 * MS Sql;
 * Git;
+* Link to my training and stand-alone projects in the Github repository:[github](https://github.com/denezhkinia)
 ```
 
 ## Study
