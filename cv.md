@@ -1,9 +1,32 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода *
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.**
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+Personal information
 
+Name Ilya Denezhkin
+
+Contacts
+
+Address:30 Osennya, apt 1, Moscow, Russia Tel. +7(916)2009825;
+Marital status: Unmarried;
+Date of birth: 16th September 1993; 
+Email: denezhkinia@ya.ru;
+
+Job objective
+
+Senior or Lead Front-End Developer In the future.
+
+Skills
+
+C#;
+HTML/CSS;
+Studying Java-Script;
+MS Sql;
+Git;
+
+Study
+
+University
+
+2015 Moscow State University of Technologies «STANKIN», Information Technology, Automation of technological processes and production in mechanical engineering,Software engineer
+
+Language
+
+English B2 
