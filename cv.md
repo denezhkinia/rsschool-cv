@@ -1,13 +1,10 @@
 ## Personal information
 
-Name Ilya Denezhkin
+**Name** Ilya Denezhkin
 
-Contacts
+**Contacts**
 
-Address:30 Osennya, apt 1, Moscow, Russia Tel. +7(916)2009825;
-Marital status: Unmarried;
-Date of birth: 16th September 1993; 
-Email: denezhkinia@ya.ru;
+__Address:__ 30 Osennya, apt 1, Moscow, Russia Tel. +7(916)2009825; __Marital status:__ Unmarried __Date of birth:__ 16th September 1993; __Email:__ denezhkinia@ya.ru;
 
 ## Job objective
 
