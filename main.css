@@ -56,6 +56,33 @@ figure>img.nav--foto{
 figure>figcaption>h2{
     color: #fff;
 }
+footer{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 20%;
+    padding: 2%;
+    justify-content: space-between;
+}
+footer>a{
+
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+
+}
+
+footer>a>figure>img{
+    position: relative;
+    padding: 2%;
+    margin: 0 auto;
+    height: 40px;
+
+}
+
+footer>a>figure>figcaption{
+    white-space: nowrap;
+}
 @media(max-width: 800px)
 {
     a.btn--nav{
@@ -94,6 +121,9 @@ figure>figcaption>h2{
 
 
     main{
+        margin-left: 0;
+    }
+    footer{
         margin-left: 0;
     }
 }
