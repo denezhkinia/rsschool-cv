@@ -1,0 +1,160 @@
+
+body{
+    margin: 0 auto;
+}
+a.btn--nav{
+    display: block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    text-align: center;
+}
+a.btn--nav:hover { background: rgba(255,255,255,.2); }
+a.btn--nav:active { background: white; }
+nav{
+    margin: 0 auto;
+    position: fixed;
+    height: 100%;
+    width: 20%;
+    background-color:darkslategrey;
+    z-index: 10000;
+}
+nav>ul{
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    margin: 0 auto;
+}
+nav>ul>li{
+    margin: 0 auto;
+    list-style-type: none;
+    margin: 5%;
+}
+nav>ul>li>a{
+    margin: 0 auto;
+    white-space: nowrap;
+    padding: 3%;
+}
+
+main{
+    margin: 0 auto;
+    position: relative;
+    margin-left: 20%;
+    padding: 2%;
+    z-index: 0;
+}
+figure>img.nav--foto{
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 50%;
+}
+figure>figcaption>h2{
+    color: #fff;
+}
+footer{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    margin-left: 20%;
+    padding: 2%;
+    justify-content: space-between;
+}
+footer>a{
+
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+
+}
+
+footer>a>figure>img{
+    position: relative;
+    padding: 2%;
+    margin: 0 auto;
+    height: 40px;
+
+}
+
+footer>a>figure>figcaption{
+    white-space: nowrap;
+}
+@media(max-width: 800px)
+{
+    a.btn--nav{
+        width: 50%;
+        margin: 0 0 0 auto;
+        text-align: center;
+    }
+    nav{
+        position: relative;
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+    }
+    figure{
+        display: inline-flex;
+        margin: 1%;
+    }
+    figcaption{
+        padding-left: 2%;
+        margin-top: 13%;
+    }
+    figure>img.nav--foto{
+        width: 65%;
+        padding: 2%;
+    }
+    nav>ul{
+        padding-right: 3%;
+    }
+    nav>ul>li{
+        margin: 0;
+        padding: 2%;
+    }
+    nav>ul>li{
+        width: 90%;
+    }
+
+
+    main{
+        margin-left: 0;
+    }
+    footer{
+        margin-left: 0;
+    }
+}
+@media(max-width: 500px){
+    a.btn--nav{
+        width: 75%;
+    }
+}
+@media(max-width: 460px){
+    nav{
+        display: block;
+        margin: 0;
+    }
+    figure{
+        display: block;
+        margin: 0;
+    }
+    figure>img.nav--foto{
+        width: 50%;
+        margin: 0 auto;
+        padding: 2%;
+        display: flex;
+    }
+    figcaption{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    nav>ul{
+        margin: 0;
+        padding: 0;
+    }
+
+}
